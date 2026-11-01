@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 80,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-nosen-0001",
@@ -1164,7 +1167,7 @@
   "blocks": 80,
   "chars": 1856,
   "poems": 80,
-  "yaku": 0,
+  "yaku": 80,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T01:59:35+09:00"
